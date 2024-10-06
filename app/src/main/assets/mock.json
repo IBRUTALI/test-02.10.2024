@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Cam-5",
+    "Type": "Camera",
+    "Status": "live",
+    "Mac": "fe:fe:f3:fe",
+    "Subscription": "SM-03"
+  },
+  {
+    "Name": "Rep-1",
+    "Type": "Camera",
+    "Status": "dead",
+    "Mac": "fe:fe:f3:fe",
+    "Subscription": "SM-03"
+  },
+  {
+    "Name": "LD-4",
+    "Type": "LiveData",
+    "Status": "mute",
+    "Mac": "fe:fe:f3:fe",
+    "Subscription": "SM-03"
+  },
+  {
+    "Name": "Igor",
+    "Type": "Participant",
+    "Status": "approved",
+    "Mac": "fe:fe:f3:fe",
+    "Subscription": "no"
+  }
+]

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">test-02.10.2024</string>
+    <string name="tab_screen">Вкладка</string>
+    <string name="devices_screen">Devices List</string>
+    <string name="messages_screen">Messages</string>
+    <string name="all">All</string>
+    <string name="live">Live</string>
+    <string name="approved">Approved</string>
+    <string name="mute">Mute</string>
+    <string name="blocked">Blocked</string>
+    <string name="dead">Dead</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="status">Status</string>
+    <string name="mac">Mac</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="sent">Sent</string>
+    <string name="numeration">#</string>
+    <string name="time">Time</string>
+    <string name="date">Date</string>
+    <string name="recipient">Recipient</string>
+    <string name="text">Text</string>
+    <string name="send_message">Send message</string>
+    <string name="send">Send</string>
+</resources>
